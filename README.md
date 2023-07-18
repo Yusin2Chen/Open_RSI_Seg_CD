@@ -18,7 +18,7 @@ or clone the repository locally and install with
 ```
 git clone git@github.com:facebookresearch/segment-anything.git
 cd segment-anything; pip install -e .
-
+```
 Then the model can be used in just a few lines to get masks from a given prompt:
 
 ```
